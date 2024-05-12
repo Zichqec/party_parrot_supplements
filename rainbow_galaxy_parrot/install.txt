@@ -1,0 +1,4 @@
+charset,UTF-8
+type,supplement
+name,Rainbow Galaxy Parrot
+accept,Sirocco
